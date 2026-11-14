@@ -19,5 +19,8 @@
 	"STR_30_MINS": "!30 Mins",
 	"STR_1_HOUR": "!1 Hour",
 	"STR_1_DAY": "!1 Day",
-	"STR_EMPTY_SLOT": "!Empty"
+	"STR_EMPTY_SLOT": "!Empty",
+	"STR_SAVE": "!Save",
+	"STR_OVERWRITE": "!Overwrite",
+	"STR_LOAD": "!Load"
 }

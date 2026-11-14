@@ -42,28 +42,6 @@ export class BootstrapScene extends Scene
 	}
 
 	/**
-	 * Starts loading the strings and rulesets
-	 */
-	protected override async _onEnter(_signal: AbortSignal): Promise<void>
-	{
-		// Load the strings and record the outcome
-		this._strings.load()
-			.then((): void => { this.#stringsStatus = 'loaded'; })
-			.catch((error: unknown): void => {
-				console.error(error);
-				this.#stringsStatus = 'failed';
-			});
-
-		// Load the rulesets and record the outcome
-		this._rules.load()
-			.then((): void => { this.#rulesStatus = 'loaded'; })
-			.catch((error: unknown): void => {
-				console.error(error);
-				this.#rulesStatus = 'failed';
-			});
-	}
-
-	/**
 	 * Hands over to the main menu once the strings and rulesets have loaded
 	 */
 	override async update(_deltaTime: number): Promise<void>
@@ -119,6 +97,28 @@ export class BootstrapScene extends Scene
 					break;
 			}
 		}
+	}
+
+	/**
+	 * Starts loading the strings and rulesets
+	 */
+	protected override async _onEnter(_signal: AbortSignal): Promise<void>
+	{
+		// Load the strings and record the outcome
+		this._strings.load()
+			.then((): void => { this.#stringsStatus = 'loaded'; })
+			.catch((error: unknown): void => {
+				console.error(error);
+				this.#stringsStatus = 'failed';
+			});
+
+		// Load the rulesets and record the outcome
+		this._rules.load()
+			.then((): void => { this.#rulesStatus = 'loaded'; })
+			.catch((error: unknown): void => {
+				console.error(error);
+				this.#rulesStatus = 'failed';
+			});
 	}
 }
 
