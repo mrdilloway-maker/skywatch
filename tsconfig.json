@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		"target": "ES2022",
+		"module": "ES2022",
+		"moduleResolution": "Bundler",
+		"lib": ["ES2022", "DOM", "DOM.Iterable"],
+		"rootDir": "dev/ts",
+		"outDir": "dist/js",
+		"strict": true,
+		"noUncheckedIndexedAccess": true,
+		"noImplicitOverride": true,
+		"forceConsistentCasingInFileNames": true,
+		"skipLibCheck": true,
+		"isolatedModules": true,
+		"sourceMap": true,
+		"types": []
+	},
+	"include": [
+		"dev/ts/**/*.ts"
+	],
+	"exclude": [
+		"node_modules",
+		"server",
+		"data"
+	]
+}

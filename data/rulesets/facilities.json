@@ -1,0 +1,70 @@
+[
+	{
+		"id": "FAC_ACCESS_LIFT",
+		"cost": 300000
+	},
+	{
+		"id": "FAC_LIVING_QUARTERS",
+		"cost": 400000
+	},
+	{
+		"id": "FAC_LABORATORY",
+		"cost": 750000
+	},
+	{
+		"id": "FAC_WORKSHOP",
+		"cost": 800000
+	},
+	{
+		"id": "FAC_GENERAL_STORES",
+		"cost": 150000
+	},
+	{
+		"id": "FAC_ALIEN_CONTAINMENT",
+		"cost": 400000
+	},
+	{
+		"id": "FAC_HANGAR",
+		"cost": 200000
+	},
+	{
+		"id": "FAC_SMALL_RADAR",
+		"cost": 500000
+	},
+	{
+		"id": "FAC_LARGE_RADAR",
+		"cost": 800000
+	},
+	{
+		"id": "FAC_MISSILE_DEFENSES",
+		"cost": 200000
+	},
+	{
+		"id": "FAC_PSIONIC_LABORATORY",
+		"cost": 750000
+	},
+	{
+		"id": "FAC_HYPER_WAVE_DECODER",
+		"cost": 1400000
+	},
+	{
+		"id": "FAC_LASER_DEFENSES",
+		"cost": 400000
+	},
+	{
+		"id": "FAC_PLASMA_DEFENSES",
+		"cost": 600000
+	},
+	{
+		"id": "FAC_FUSION_DEFENSES",
+		"cost": 800000
+	},
+	{
+		"id": "FAC_MIND_SHIELD",
+		"cost": 1300000
+	},
+	{
+		"id": "FAC_GRAV_SHIELD",
+		"cost": 1200000
+	}
+]

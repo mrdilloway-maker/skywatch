@@ -1,0 +1,23 @@
+{
+	"STR_LOADING": "!Loading",
+	"STR_RULESETS": "!Rulesets",
+	"STR_MAIN_MENU": "!Main Menu",
+	"STR_NEW_GAME": "!New Game",
+	"STR_LOAD_GAME": "!Load Game",
+	"STR_SAVE_GAME": "!Save Game",
+	"STR_OPTIONS": "!Options",
+	"STR_GEOSCAPE": "!Geoscape",
+	"STR_BEGINNER": "!Beginner",
+	"STR_NOVICE": "!Novice",
+	"STR_EXPERT": "!Expert",
+	"STR_CANCEL": "!Cancel",
+	"STR_BACK": "!Back",
+	"STR_PAUSE": "!Pause",
+	"STR_5_SECS": "!5 Secs",
+	"STR_1_MIN": "!1 Min",
+	"STR_5_MINS": "!5 Mins",
+	"STR_30_MINS": "!30 Mins",
+	"STR_1_HOUR": "!1 Hour",
+	"STR_1_DAY": "!1 Day",
+	"STR_EMPTY_SLOT": "!Empty"
+}

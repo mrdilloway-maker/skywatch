@@ -1,0 +1,17 @@
+{
+	"name": "skywatch",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build:ts": "tsc",
+		"build:scss": "sass dev/scss:dist/css --no-source-map --style compressed",
+		"build": "npm run build:ts && npm run build:scss",
+		"watch:ts": "tsc --watch",
+		"watch:scss": "sass --watch dev/scss:dist/css"
+	},
+	"devDependencies": {
+		"typescript": "^5.5.4",
+		"sass": "^1.77.8"
+	}
+}

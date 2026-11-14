@@ -1,0 +1,69 @@
+[
+	{
+		"id": "RES_LASER_WEAPONS",
+		"cost": 50,
+		"points": 10
+	},
+	{
+		"id": "RES_MOTION_SCANNER",
+		"cost": 180,
+		"points": 20
+	},
+	{
+		"id": "RES_MEDI_KIT",
+		"cost": 210,
+		"points": 20
+	},
+	{
+		"id": "RES_SMALL_LAUNCHER",
+		"cost": 550,
+		"points": 30,
+		"needItem": true
+	},
+	{
+		"id": "RES_STUN_BOMB",
+		"cost": 180,
+		"points": 10,
+		"needItem": true
+	},
+	{
+		"id": "RES_LASER_PISTOL",
+		"cost": 100,
+		"points": 10,
+		"dependencies": [
+			"RES_LASER_WEAPONS"
+		]
+	},
+	{
+		"id": "RES_LASER_RIFLE",
+		"cost": 300,
+		"points": 10,
+		"dependencies": [
+			"RES_LASER_PISTOL"
+		]
+	},
+	{
+		"id": "RES_HEAVY_LASER",
+		"cost": 460,
+		"points": 10,
+		"dependencies": [
+			"RES_LASER_RIFLE"
+		]
+	},
+	{
+		"id": "RES_LASER_CANNON",
+		"cost": 420,
+		"points": 15,
+		"dependencies": [
+			"RES_HEAVY_LASER"
+		]
+	},
+	{
+		"id": "RES_LASER_DEFENSE",
+		"cost": 510,
+		"points": 15,
+		"dependencies": [
+			"RES_LASER_CANNON"
+		]
+	}
+]

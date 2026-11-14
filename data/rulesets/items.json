@@ -1,0 +1,742 @@
+[
+	{
+		"id": "ITM_SCIENTISTS",
+		"costBuy": 60000,
+		"costSell": 0
+	},
+	{
+		"id": "ITM_ENGINEERS",
+		"costBuy": 50000,
+		"costSell": 0
+	},
+	{
+		"id": "ITM_SOLDIERS",
+		"costBuy": 40000,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_STINGRAY_LAUNCHER",
+		"costBuy": 16000,
+		"costSell": 12000
+	},
+	{
+		"id": "ITM_STINGRAY_MISSILES",
+		"costBuy": 3000,
+		"costSell": 2400
+	},
+	{
+		"id": "ITM_AVALANCHE_LAUNCHER",
+		"costBuy": 17000,
+		"costSell": 12750
+	},
+	{
+		"id": "ITM_AVALANCHE_MISSILES",
+		"costBuy": 9000,
+		"costSell": 7200
+	},
+	{
+		"id": "ITM_CANNON",
+		"costBuy": 30000,
+		"costSell": 22500
+	},
+	{
+		"id": "ITM_CANNON_ROUNDS_X50",
+		"costBuy": 1240,
+		"costSell": 1012
+	},
+	{
+		"id": "ITM_FUSION_BALL_LAUNCHER",
+		"costBuy": -1,
+		"costSell": 281000
+	},
+	{
+		"id": "ITM_FUSION_BALL",
+		"costBuy": -1,
+		"costSell": 53300
+	},
+	{
+		"id": "ITM_LASER_CANNON",
+		"costBuy": -1,
+		"costSell": 211000
+	},
+	{
+		"id": "ITM_PLASMA_BEAM",
+		"costBuy": -1,
+		"costSell": 267300
+	},
+	{
+		"id": "ITM_TANK_CANNON",
+		"costBuy": 420000,
+		"costSell": 340000
+	},
+	{
+		"id": "ITM_HWP_CANNON_SHELLS",
+		"costBuy": 200,
+		"costSell": 100
+	},
+	{
+		"id": "ITM_TANK_ROCKET_LAUNCHER",
+		"costBuy": 480000,
+		"costSell": 360000
+	},
+	{
+		"id": "ITM_HWP_ROCKETS",
+		"costBuy": 3000,
+		"costSell": 2250
+	},
+	{
+		"id": "ITM_TANK_LASER_CANNON",
+		"costBuy": -1,
+		"costSell": 594000
+	},
+	{
+		"id": "ITM_HOVERTANK_PLASMA",
+		"costBuy": -1,
+		"costSell": 980000
+	},
+	{
+		"id": "ITM_HOVERTANK_LAUNCHER",
+		"costBuy": -1,
+		"costSell": 1043000
+	},
+	{
+		"id": "ITM_HWP_FUSION_BOMB",
+		"costBuy": -1,
+		"costSell": 31500
+	},
+	{
+		"id": "ITM_PISTOL",
+		"costBuy": 800,
+		"costSell": 600
+	},
+	{
+		"id": "ITM_PISTOL_CLIP",
+		"costBuy": 70,
+		"costSell": 52
+	},
+	{
+		"id": "ITM_RIFLE",
+		"costBuy": 3000,
+		"costSell": 2250
+	},
+	{
+		"id": "ITM_RIFLE_CLIP",
+		"costBuy": 200,
+		"costSell": 150
+	},
+	{
+		"id": "ITM_HEAVY_CANNON",
+		"costBuy": 6400,
+		"costSell": 4800
+	},
+	{
+		"id": "ITM_HC_AP_AMMO",
+		"costBuy": 300,
+		"costSell": 225
+	},
+	{
+		"id": "ITM_HC_HE_AMMO",
+		"costBuy": 500,
+		"costSell": 275
+	},
+	{
+		"id": "ITM_HC_I_AMMO",
+		"costBuy": 400,
+		"costSell": 300
+	},
+	{
+		"id": "ITM_AUTO_CANNON",
+		"costBuy": 13500,
+		"costSell": 10125
+	},
+	{
+		"id": "ITM_AC_AP_AMMO",
+		"costBuy": 500,
+		"costSell": 400
+	},
+	{
+		"id": "ITM_AC_HE_AMMO",
+		"costBuy": 700,
+		"costSell": 560
+	},
+	{
+		"id": "ITM_AC_I_AMMO",
+		"costBuy": 650,
+		"costSell": 520
+	},
+	{
+		"id": "ITM_ROCKET_LAUNCHER",
+		"costBuy": 4000,
+		"costSell": 3000
+	},
+	{
+		"id": "ITM_SMALL_ROCKET",
+		"costBuy": 600,
+		"costSell": 480
+	},
+	{
+		"id": "ITM_LARGE_ROCKET",
+		"costBuy": 900,
+		"costSell": 720
+	},
+	{
+		"id": "ITM_INCENDIARY_ROCKET",
+		"costBuy": 1200,
+		"costSell": 960
+	},
+	{
+		"id": "ITM_LASER_PISTOL",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_LASER_RIFLE",
+		"costBuy": -1,
+		"costSell": 36900
+	},
+	{
+		"id": "ITM_HEAVY_LASER",
+		"costBuy": -1,
+		"costSell": 61000
+	},
+	{
+		"id": "ITM_GRENADE",
+		"costBuy": 300,
+		"costSell": 240
+	},
+	{
+		"id": "ITM_SMOKE_GRENADE",
+		"costBuy": 150,
+		"costSell": 120
+	},
+	{
+		"id": "ITM_PROXIMITY_GRENADE",
+		"costBuy": 500,
+		"costSell": 400
+	},
+	{
+		"id": "ITM_HIGH_EXPLOSIVE",
+		"costBuy": 1500,
+		"costSell": 1200
+	},
+	{
+		"id": "ITM_MOTION_SCANNER",
+		"costBuy": -1,
+		"costSell": 45600
+	},
+	{
+		"id": "ITM_MEDI_KIT",
+		"costBuy": -1,
+		"costSell": 46500
+	},
+	{
+		"id": "ITM_PSI_AMP",
+		"costBuy": -1,
+		"costSell": 194700
+	},
+	{
+		"id": "ITM_STUN_ROD",
+		"costBuy": 1260,
+		"costSell": 945
+	},
+	{
+		"id": "ITM_ELECTRO_FLARE",
+		"costBuy": 60,
+		"costSell": 40
+	},
+	{
+		"id": "ITM_CORPSE",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CORPSE_ARMOUR",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CORPSE_SUIT",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_HEAVY_PLASMA",
+		"costBuy": -1,
+		"costSell": 171600
+	},
+	{
+		"id": "ITM_HEAVY_PLASMA_CLIP",
+		"costBuy": -1,
+		"costSell": 9590
+	},
+	{
+		"id": "ITM_PLASMA_RIFLE",
+		"costBuy": -1,
+		"costSell": 126500
+	},
+	{
+		"id": "ITM_PLASMA_RIFLE_CLIP",
+		"costBuy": -1,
+		"costSell": 6290
+	},
+	{
+		"id": "ITM_PLASMA_PISTOL",
+		"costBuy": -1,
+		"costSell": 84000
+	},
+	{
+		"id": "ITM_PLASMA_PISTOL_CLIP",
+		"costBuy": -1,
+		"costSell": 4440
+	},
+	{
+		"id": "ITM_BLASTER_LAUNCHER",
+		"costBuy": -1,
+		"costSell": 144000
+	},
+	{
+		"id": "ITM_BLASTER_BOMB",
+		"costBuy": -1,
+		"costSell": 17028
+	},
+	{
+		"id": "ITM_SMALL_LAUNCHER",
+		"costBuy": -1,
+		"costSell": 120000
+	},
+	{
+		"id": "ITM_STUN_BOMB",
+		"costBuy": -1,
+		"costSell": 15200
+	},
+	{
+		"id": "ITM_ALIEN_GRENADE",
+		"costBuy": -1,
+		"costSell": 14850
+	},
+	{
+		"id": "ITM_ELERIUM_115",
+		"costBuy": -1,
+		"costSell": 5000
+	},
+	{
+		"id": "ITM_MIND_PROBE",
+		"costBuy": -1,
+		"costSell": 304000
+	},
+	{
+		"id": "ITM_SECTOID_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_SNAKEMAN_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_ETHEREAL_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_MUTON_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_FLOATER_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_CELATID_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_SILACOID_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_CHRYSSALID_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_REAPER_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_REAPER_CORPSE_1",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_REAPER_CORPSE_2",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_REAPER_CORPSE_3",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_REAPER_CORPSE_4",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_SECTOPOD_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_SECTOPOD_CORPSE_1",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_SECTOPOD_CORPSE_2",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_SECTOPOD_CORPSE_3",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_SECTOPOD_CORPSE_4",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CYBERDISC_CORPSE",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_CYBERDISC_CORPSE_1",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CYBERDISC_CORPSE_2",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CYBERDISC_CORPSE_3",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CYBERDISC_CORPSE_4",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_HOVERTANK_CORPSE_1",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_HOVERTANK_CORPSE_2",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_HOVERTANK_CORPSE_3",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_HOVERTANK_CORPSE_4",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_TANK_CORPSE_1",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_TANK_CORPSE_2",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_TANK_CORPSE_3",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_TANK_CORPSE_4",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CIVM_CORPSE",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CIVF_CORPSE",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_UFO_POWER_SOURCE",
+		"costBuy": -1,
+		"costSell": 250000
+	},
+	{
+		"id": "ITM_UFO_NAVIGATION",
+		"costBuy": -1,
+		"costSell": 80000
+	},
+	{
+		"id": "ITM_UFO_CONSTRUCTION",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_ALIEN_FOOD",
+		"costBuy": -1,
+		"costSell": 5000
+	},
+	{
+		"id": "ITM_ALIEN_REPRODUCTION",
+		"costBuy": -1,
+		"costSell": 40000
+	},
+	{
+		"id": "ITM_ALIEN_ENTERTAINMENT",
+		"costBuy": -1,
+		"costSell": 20000
+	},
+	{
+		"id": "ITM_ALIEN_SURGERY",
+		"costBuy": -1,
+		"costSell": 38000
+	},
+	{
+		"id": "ITM_EXAMINATION_ROOM",
+		"costBuy": -1,
+		"costSell": 9000
+	},
+	{
+		"id": "ITM_ALIEN_ALLOYS",
+		"costBuy": -1,
+		"costSell": 6500
+	},
+	{
+		"id": "ITM_ALIEN_HABITAT",
+		"costBuy": -1,
+		"costSell": 100
+	},
+	{
+		"id": "ITM_PERSONAL_ARMOUR",
+		"costBuy": -1,
+		"costSell": 54000
+	},
+	{
+		"id": "ITM_POWER_SUIT",
+		"costBuy": -1,
+		"costSell": 85000
+	},
+	{
+		"id": "ITM_FLYING_SUIT",
+		"costBuy": -1,
+		"costSell": 115000
+	},
+	{
+		"id": "ITM_CYBERDISC_WEAPON",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_REAPER_WEAPON",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CHRYSSALID_WEAPON",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_CELATID_WEAPON",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_SILACOID_WEAPON",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_SECTOPOD_WEAPON",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_ZOMBIE_WEAPON",
+		"costBuy": -1,
+		"costSell": -1
+	},
+	{
+		"id": "ITM_SECTOID_COMMANDER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_SECTOID_LEADER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_SECTOID_ENGINEER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_SECTOID_MEDIC",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_SECTOID_NAVIGATOR",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_SECTOID_SOLDIER",
+		"costBuy": -1,
+		"costSell": 40000
+	},
+	{
+		"id": "ITM_SNAKEMAN_COMMANDER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_SNAKEMAN_LEADER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_SNAKEMAN_ENGINEER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_SNAKEMAN_NAVIGATOR",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_SNAKEMAN_SOLDIER",
+		"costBuy": -1,
+		"costSell": 40000
+	},
+	{
+		"id": "ITM_ETHEREAL_COMMANDER",
+		"costBuy": -1,
+		"costSell": 80000
+	},
+	{
+		"id": "ITM_ETHEREAL_LEADER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_ETHEREAL_SOLDIER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_MUTON_ENGINEER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_MUTON_NAVIGATOR",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_MUTON_SOLDIER",
+		"costBuy": -1,
+		"costSell": 40000
+	},
+	{
+		"id": "ITM_FLOATER_COMMANDER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_FLOATER_LEADER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_FLOATER_ENGINEER",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_FLOATER_MEDIC",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_FLOATER_NAVIGATOR",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_FLOATER_SOLDIER",
+		"costBuy": -1,
+		"costSell": 40000
+	},
+	{
+		"id": "ITM_CELATID_TERRORIST",
+		"costBuy": -1,
+		"costSell": 40000
+	},
+	{
+		"id": "ITM_SILACOID_TERRORIST",
+		"costBuy": -1,
+		"costSell": 40000
+	},
+	{
+		"id": "ITM_CHRYSSALID_TERRORIST",
+		"costBuy": -1,
+		"costSell": 60000
+	},
+	{
+		"id": "ITM_REAPER_TERRORIST",
+		"costBuy": -1,
+		"costSell": 40000
+	},
+	{
+		"id": "ITM_SECTOPOD_TERRORIST",
+		"costBuy": -1,
+		"costSell": 80000
+	},
+	{
+		"id": "ITM_CYBERDISC_TERRORIST",
+		"costBuy": -1,
+		"costSell": 80000
+	},
+	{
+		"id": "ITM_ALIEN_PSI_WEAPON",
+		"costBuy": -1,
+		"costSell": -1
+	}
+]
