@@ -1,6 +1,6 @@
-import { Scene } from '../Scene.js';
+import { Scene } from './Scene.js';
 
-import type { SceneParams } from '../Scene.js';
+import type { SceneParams } from './Scene.js';
 
 /**
  * Screen for loading a saved game

@@ -1,9 +1,9 @@
-import { GeoscapeScene } from '../geoscape/GeoscapeScene.js';
-import { Scene } from '../Scene.js';
+import { GeoscapeScene } from './GeoscapeScene.js';
 import { MainMenuScene } from './MainMenuScene.js';
+import { Scene } from './Scene.js';
 
-import type { GameData } from '../../model/GameDataStore.js';
-import type { SceneParams } from '../Scene.js';
+import type { GameData } from '../stores/GameDataStore.js';
+import type { SceneParams } from './Scene.js';
 
 /**
  * Screen for starting a new game

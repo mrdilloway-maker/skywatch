@@ -1,7 +1,7 @@
-import { Scene } from '../Scene.js';
+import { Scene } from './Scene.js';
 
-import type { SaveSlotIndex } from '../../services/SavedDataGateway.js';
-import type { SceneParams } from '../Scene.js';
+import type { SaveSlotIndex } from '../stores/SavedDataGateway.js';
+import type { SceneParams } from './Scene.js';
 
 /**
  * Screen for saving the current game

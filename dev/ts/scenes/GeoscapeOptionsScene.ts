@@ -1,8 +1,8 @@
-import { Scene } from '../Scene.js';
-import { LoadGameScene } from '../setup/LoadGameScene.js';
-import { SaveGameScene } from '../setup/SaveGameScene.js';
+import { LoadGameScene } from './LoadGameScene.js';
+import { SaveGameScene } from './SaveGameScene.js';
+import { Scene } from './Scene.js';
 
-import type { SceneParams } from '../Scene.js';
+import type { SceneParams } from './Scene.js';
 
 /**
  * Geoscape options, leading to the save game and load game scenes

@@ -1,10 +1,10 @@
-import { Scene } from '../scenes/Scene.js';
+import { Scene } from './Scene.js';
 
-import type { GameDataStore } from '../model/GameDataStore.js';
-import type { GameRulesStore } from '../model/GameRulesStore.js';
-import type { StringsStore } from '../model/StringsStore.js';
-import type { SceneConstructor } from '../scenes/Scene.js';
-import type { SavedDataGateway } from './SavedDataGateway.js';
+import type { GameDataStore } from '../stores/GameDataStore.js';
+import type { GameRulesStore } from '../stores/GameRulesStore.js';
+import type { SavedDataGateway } from '../stores/SavedDataGateway.js';
+import type { StringsStore } from '../stores/StringsStore.js';
+import type { SceneConstructor } from './Scene.js';
 
 /**
  * Options for creating the scene manager

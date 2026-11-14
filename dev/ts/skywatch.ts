@@ -1,9 +1,9 @@
-import { GameDataStore } from './model/GameDataStore.js';
-import { GameRulesStore } from './model/GameRulesStore.js';
-import { StringsStore } from './model/StringsStore.js';
-import { BootstrapScene } from './scenes/setup/BootstrapScene.js';
-import { SavedDataGateway } from './services/SavedDataGateway.js';
-import { SceneManager } from './services/SceneManager.js';
+import { BootstrapScene } from './scenes/BootstrapScene.js';
+import { SceneManager } from './scenes/SceneManager.js';
+import { GameDataStore } from './stores/GameDataStore.js';
+import { GameRulesStore } from './stores/GameRulesStore.js';
+import { SavedDataGateway } from './stores/SavedDataGateway.js';
+import { StringsStore } from './stores/StringsStore.js';
 
 /**
  * Options passed in to start the game

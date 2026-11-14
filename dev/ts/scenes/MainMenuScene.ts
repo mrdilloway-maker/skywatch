@@ -1,8 +1,8 @@
-import { Scene } from '../Scene.js';
 import { LoadGameScene } from './LoadGameScene.js';
 import { NewGameScene } from './NewGameScene.js';
+import { Scene } from './Scene.js';
 
-import type { SceneParams } from '../Scene.js';
+import type { SceneParams } from './Scene.js';
 
 /**
  * Main menu, leading to the new game and load game scenes

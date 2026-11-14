@@ -1,4 +1,4 @@
-import type { GameData } from '../model/GameDataStore.js';
+import type { GameData } from './GameDataStore.js';
 
 /**
  * Number of a save slot

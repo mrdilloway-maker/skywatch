@@ -1,7 +1,7 @@
-import { Scene } from '../Scene.js';
 import { MainMenuScene } from './MainMenuScene.js';
+import { Scene } from './Scene.js';
 
-import type { SceneParams } from '../Scene.js';
+import type { SceneParams } from './Scene.js';
 
 /**
  * First scene, which loads the strings and rulesets and hands over to the main menu

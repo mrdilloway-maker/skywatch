@@ -1,12 +1,12 @@
-import { GameSpeed } from '../../model/GameSpeed.js';
-import { GeoscapeSystemManager } from '../../model/geoscape/systems/GeoscapeSystemManager.js';
-import { PsiTrainingSystem } from '../../model/geoscape/systems/PsiTrainingSystem.js';
-import { RadarDetectionSystem } from '../../model/geoscape/systems/RadarDetectionSystem.js';
-import { SoldierRecoverySystem } from '../../model/geoscape/systems/SoldierRecoverySystem.js';
-import { Scene } from '../Scene.js';
+import { GameSpeed } from '../stores/GameSpeed.js';
+import { GeoscapeSystemManager } from '../systems/geoscape/GeoscapeSystemManager.js';
+import { PsiTrainingSystem } from '../systems/geoscape/PsiTrainingSystem.js';
+import { RadarDetectionSystem } from '../systems/geoscape/RadarDetectionSystem.js';
+import { SoldierRecoverySystem } from '../systems/geoscape/SoldierRecoverySystem.js';
 import { GeoscapeOptionsScene } from './GeoscapeOptionsScene.js';
+import { Scene } from './Scene.js';
 
-import type { SceneParams } from '../Scene.js';
+import type { SceneParams } from './Scene.js';
 
 /**
  * Geoscape scene

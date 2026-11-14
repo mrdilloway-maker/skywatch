@@ -1,4 +1,4 @@
-import type { GameDataStore } from '../../GameDataStore.js';
+import type { GameDataStore } from '../../stores/GameDataStore.js';
 
 /**
  * Options for creating a system

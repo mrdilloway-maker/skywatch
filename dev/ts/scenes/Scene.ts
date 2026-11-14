@@ -1,8 +1,8 @@
-import type { GameDataStore } from '../model/GameDataStore.js';
-import type { GameRulesStore } from '../model/GameRulesStore.js';
-import type { StringsStore } from '../model/StringsStore.js';
-import type { SavedDataGateway } from '../services/SavedDataGateway.js';
-import type { SceneManager } from '../services/SceneManager.js';
+import type { GameDataStore } from '../stores/GameDataStore.js';
+import type { GameRulesStore } from '../stores/GameRulesStore.js';
+import type { SavedDataGateway } from '../stores/SavedDataGateway.js';
+import type { StringsStore } from '../stores/StringsStore.js';
+import type { SceneManager } from './SceneManager.js';
 
 /**
  * Constructor signature for a scene class
